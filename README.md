@@ -10,3 +10,4 @@ To-do:
 3)	anything you want to add
 First zoom meeting:
 Two-days later: 03/03, 9pm?
+a
